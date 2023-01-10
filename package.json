@@ -1,0 +1,16 @@
+{
+  "name": "micro-curve-definitions",
+  "version": "0.3.0",
+  "description": "placeholder pkg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Paul Miller",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paulmillr/unused-test-repo.git"
+  },
+  "license": "ISC"
+}
